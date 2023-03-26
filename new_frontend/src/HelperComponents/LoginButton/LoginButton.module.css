@@ -1,0 +1,19 @@
+.button {
+  width: auto;
+  height: 73px;
+  margin-top: 25px;
+  background: linear-gradient(#2900FF, #006CFF);
+  padding: 2% 2%;
+  border-radius: 6px;
+  border: none;
+  color: #fff;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+a{
+  text-decoration: none;
+}

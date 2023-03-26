@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&display=swap');
+
+
+
+.container {
+    background: url(./assets/Frame.svg) no-repeat, #000D26;
+    background-size: cover;
+    height: 100vh;
+}
+
+.profile {
+
+    box-sizing: border-box;
+    position: absolute;
+    width: auto;
+    height: 23vh;
+    left: 8%;
+    top: 18%;
+    border-radius: 10px;
+}
+
+
+.name {
+    position: absolute;
+    width: auto;
+    height: 4.3%;
+    left: 21.6%;
+    top: 17%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: flex-end;
+
+    color: #BCB9B9;
+
+}
+
+
+.designation {
+
+    position: absolute;
+    width: auto;
+    height: 4.3%;
+    left: 21.6%;
+    top: 24%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: flex-end;
+
+    color: #BCB9B9;
+
+}
+
+
+.heading {
+
+    position: absolute;
+    width: 70%;
+    height: 0px;
+    left: 6.5%;
+    top: 46%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #FFFFFF;
+
+}

@@ -1,0 +1,23 @@
+.navbar {
+  background: #04111D;
+  display: flex;
+  justify-content: space-between;
+  height: 83px;
+  align-items: center;
+  padding: 10px 52px;
+  box-shadow: 0px 0px 2px #04111D;
+}
+
+.navButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#2900FF, #006CFF);
+  width: 133px;
+  height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+}
